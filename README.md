@@ -1,5 +1,6 @@
 # emoji-widget
-Show and update emojis in the Widget
+1. Shows emojis in the Widget.
+2. The user can select up to 4 emojis from Edit Widget mode.
 
 <img width="306" alt="MainView" src="https://github.com/nahidshrabon/emoji-widget/assets/16449639/eadfe040-e51a-4bd9-815d-37694ae89e29">
 <img width="294" alt="EditView" src="https://github.com/nahidshrabon/emoji-widget/assets/16449639/1da3032f-0ca8-4711-9823-7f0ad87cbdeb">
